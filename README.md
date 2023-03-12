@@ -7,7 +7,7 @@ I am comfortable working in Python, JS/HTML/CSS, SQL, C/C++ (including embedded)
 In my spare time I enjoy learning, making music, playing chess, gardening, and baking. I am always looking for ways to improve the world around me by sharing my joy for life with others.
 
 ##### I am comfortable working with the following:
-- Python (async, multiprocessing, pandas, django, flask, fastAPI, awswrangler)
+- Python (async, multiprocessing, pytorch, numpy, pandas, django, flask, fastAPI, awswrangler)
 - Javascript/Typescript (react, node)
 - AWS (lamda, ec2, athena, s3, glue)
 - SQL (postgres, sqlite, ms sql)
