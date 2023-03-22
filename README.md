@@ -6,11 +6,10 @@ I firmly believe that the best solution to any problem can be found by examining
 
 I am comfortable working with the following:
 - Python (async, multiprocessing, pytorch, numpy, pandas, django, flask, fastAPI, awswrangler)
-- Javascript/Typescript (react, node)
+- Javascript/Typescript + HTML/CSS (react, node)
 - AWS (lamda, ec2, athena, s3, glue)
 - SQL (postgres, sqlite, ms sql)
 - C/C++ (including embedded)
-- HTML/CSS
 - C#
 
 I enjoy learning and integrating new languages, tools, and ways of thinking to support optimal solution development. If there is a better way to solve a problem to which I have not been exposed, I will expose myself to it and make sure I can integrate it into my solutions moving forward.
