@@ -2,7 +2,7 @@
 
 I am a self-motivated, driven software engineer with a strong passion for efficiency, optimization, and organization.
 
-I firmly believe that the best solution to any problem can be found by examining it from many different perspectives under the lenses of diverse disciplines. To that end, I am always seeking new knowledge and experiences that I can incorporate into my creations.
+I firmly believe that the best solution to any problem can be found by examining it from the perspective of many different disciplines. To that end, I am always seeking new knowledge and experiences that I can incorporate into my creations.
 
 I am comfortable working with the following:
 - Python (async, multiprocessing, pytorch, numpy, pandas, django, flask, fastAPI, awswrangler)
