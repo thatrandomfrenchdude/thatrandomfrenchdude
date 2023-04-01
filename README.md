@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick 👋🏼
 
-I am a self-motivated, driven software engineer with a strong passion for efficiency, optimization, and organization.
+I am a self-motivated, driven software and data engineer with a strong passion for efficiency, optimization, and organization.
 
 I firmly believe that the best solution to any problem can be found by examining it from the perspective of many different disciplines. To that end, I am always seeking new knowledge and experiences that I can incorporate into my creations.
 
