@@ -7,7 +7,7 @@ I firmly believe that the best solution to any problem can be found by examining
 I am comfortable working with the following:
 - Python (async, multiprocessing, pytorch, numpy, pandas, django, flask, fastAPI, awswrangler)
 - Javascript/Typescript + HTML/CSS (react, node)
-- AWS (lamda, ec2, athena, s3, glue)
+- AWS (lamda, ec2, athena, s3, glue, sqs)
 - SQL (postgres, sqlite, ms sql)
 - C/C++ (including embedded)
 - C#
