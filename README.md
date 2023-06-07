@@ -4,13 +4,7 @@ I am a self-motivated, driven software and data engineer with a strong passion f
 
 I firmly believe that the best solution to any problem can be found by examining it from the perspective of many different disciplines. To that end, I am always seeking new knowledge and experiences that I can incorporate into my creations.
 
-I am comfortable working with the following:
-- Python (async, multiprocessing, pytorch, numpy, pandas, django, flask, fastAPI, awswrangler)
-- Javascript/Typescript + HTML/CSS (react, node)
-- AWS (lamda, ec2, athena, s3, glue, sqs)
-- SQL (postgres, sqlite, ms sql)
-- C/C++ (including embedded)
-- C#
+I am comfortable working in Python, Javascript/Typescript, HTML, CSS, C/C++ (including embedded), and C#.
 
 I enjoy learning and integrating new languages, tools, and ways of thinking to support optimal solution development. If there is a better way to solve a problem to which I have not been exposed, I will expose myself to it and make sure I can integrate it into my solutions moving forward.
 
