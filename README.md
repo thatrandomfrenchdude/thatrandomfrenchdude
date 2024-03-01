@@ -1,8 +1,8 @@
 ### Hi there, I'm Nick 👋🏼
 
-I am a self-motivated, driven software and data engineer with a strong passion for efficiency, optimization, and organization. I firmly believe that the best solution to any problem can be found by examining it from many perspectives.
+I am a Full Stack and AI/ML software and data engineer with a passion for efficiency, optimization, and organization. I firmly believe that the best solution to any problem can be found by examining it from many perspectives.
 
-I am comfortable working in Python, Javascript/Typescript, HTML, CSS, C/C++ (including embedded), and C#. I enjoy learning and integrating new languages, tools, and ways of thinking to support optimal solution development. When I encounter solutions better than my best, I make sure to understand and integrate them into my work.
+I am comfortable working across the stack in Python, Javascript/Typescript, HTML, CSS, C/C++ (including embedded), and C#. I enjoy learning and integrating new languages, tools, and ways of thinking to support optimal solution development. When I encounter solutions better than my best, I make sure to understand and integrate them into my work.
 
 In my spare time I enjoy making music, reading, playing chess, gardening, and baking. I am always looking for ways to improve the world around me by sharing my joy for life and accumulated knowledge with everyone I can!
 
