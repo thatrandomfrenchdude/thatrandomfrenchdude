@@ -2,9 +2,9 @@
 
 I build brains for machines and bridges between people. As Qualcomm's AI Developer Advocate, I am helping grow a thriving Edge AI developer community. My work blends deep technical engineering with human connection—because great tech doesn’t live in a vacuum.
 
-I’ve worn many hats: AI/ML engineer, full-stack developer, data wrangler, and embedded systems tinkerer. My secret sauce? An obsession with elegant solutions, efficiency, and a good dose of curiosity. I code fluently in Python, JavaScript/TypeScript, HTML, CSS, C/C++, and C#, and I’m always hunting for new tools and languages that make me better. When I discover a smarter way to do something, I don’t let ego get in the way—I adapt, adopt, and level up.
+I’ve worn many hats: AI/ML engineer, full-stack developer, data wrangler, and embedded systems tinkerer. My secret sauce? An obsession with elegant solutions, efficiency, and a good dose of curiosity. I code fluently in Python and C, and pretty well in C++, JavaScript/TypeScript, HTML, CSS, and C#. and I’m always hunting for new tools and languages that make me better. When I discover a smarter way to do something, I don’t let ego get in the way—I adapt, adopt, and level up.
 
-Outside of code, I’m a creative spirit. You’ll find me writing music, playing chess, flowing through yoga, reading something weird and wonderful, or tending plants. In all walks of life, I love helping people solve problems, spark ideas, and feel a little more joy in the process.
+Outside of code, I’m a creative spirit. You’ll find me writing music, playing chess, flowing through yoga, studying something weird and wonderful, or tending plants. In all walks of life, I love helping people solve problems, spark ideas, and feel a little more joy in the process.
 
 <!-- I am an AI/ML, full stack software, and data engineer with a passion for efficiency, optimization, and organization. I am the AI Developer Advocate at Qualcomm where I am building the Qualcomm AI developer community and supporting ecosystem.
 
