@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick 👋🏼
 
-I build brains for machines and bridges between people. As Qualcomm's AI Developer Advocate, I am helping grow a thriving Edge AI developer community. My work blends deep technical engineering with human connection because great tech doesn’t live in a vacuum.
+I build brains for machines and bridges between people. As Qualcomm's AI Developer Advocate, I am growing a thriving Edge AI developer community. My work blends deep technical engineering with human connection because great tech doesn’t live in a vacuum.
 
 I’ve worn many hats: AI/ML engineer, full-stack developer, data wrangler, and embedded systems tinkerer. Infinitely curious, I am passionate about elegant solutions and efficient processes. When I discover a better way to do something, I adapt, adopt, and level up. I code fluently in Python and C, and pretty well in JavaScript/TypeScript, C++, HTML, CSS, and C#.
 
