@@ -13,7 +13,7 @@ I’ve worn many hats: AI/ML engineer, full-stack developer, data wrangler, and 
 Outside of work, I'm a creative spirit. You’ll find me writing music, flowing through yoga, tending plants, playing chess, or studying something weird and wonderful. Through all walks of life, I love helping people solve problems, spark ideas, and feel a little more joy in the process.
 </p>
 <p>
-I lead a weekly all-levels yoga class on Fridays at 6pm in Vista, California. If you’re in the area, come join me for some movement and mindfulness. Check out a <a href="[/#/blog#post-08132025_All-Levels-Yoga-Flow](https://www.thatrandomfrenchdude.com/#/blog#post-08132025_All-Levels-Yoga-Flow)">yoga flow</a> from my class. Sign up at <a href="https://yogabranch.com">yogabranch.com</a>.
+I lead a weekly all-levels yoga class on Fridays at 6pm in Vista, California. If you’re in the area, come join me for some movement and mindfulness. Check out a <a href="https://www.thatrandomfrenchdude.com/#/blog#post-08132025_All-Levels-Yoga-Flow">yoga flow</a> from my class. Sign up at <a href="https://yogabranch.com">yogabranch.com</a>.
 </p>
 
 <!-- I am an AI/ML, full stack software, and data engineer with a passion for efficiency, optimization, and organization. I am the AI Developer Advocate at Qualcomm where I am building the Qualcomm AI developer community and supporting ecosystem.
